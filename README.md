@@ -1,4 +1,4 @@
-# Hello Dear, I'm Roeurn Z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello Dear, I'm Roeurnz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="start">
   <!-- Clickable Animated Header -->
@@ -61,4 +61,4 @@
 ## 🔗 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge)](https://roeurnz.sinctuze.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roeurnkaki)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roeurnkaki@gmail.com)
+
