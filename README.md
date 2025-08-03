@@ -14,14 +14,14 @@
     <a href="https://github.com/roeurnz" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats">
     </a>
-
+  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
+  </a>
   <!-- Top Languages -->
   <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   </a>
-  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
-  </a>
+
   </div>
 </div>
 
