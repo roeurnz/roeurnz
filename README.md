@@ -3,29 +3,30 @@
 
 <div align="center">
 
-<!-- Clickable Animated Header -->
-<a href="https://roeurnz.sinctuze.info" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
-</a>
-
-<!-- Dynamic Years Badge (GitHub Action will update this) -->
-![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
-
-<!-- GitHub Stats Cards -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <a href="https://github.com/roeurnz" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats">
+  <!-- Clickable Animated Header -->
+  <a href="https://roeurnz.sinctuze.info" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
   </a>
+
+  <!-- Dynamic Years Badge (GitHub Action will update this) -->
+  ![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
+
+  <!-- GitHub Stats Cards -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+    <a href="https://github.com/roeurnz" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats">
+    </a>
+
+
+  
+  <!-- Top Languages -->
   <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   </a>
-</div>
-
-<!-- Top Languages -->
-<a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</a>
-
+      <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
+    </a>
+  </div>
 </div>
 
 
