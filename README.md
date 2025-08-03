@@ -1,11 +1,5 @@
 # Hello Dear, I'm Roeurn Z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<div align="start">
-
-<!-- Animated GIF Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Roeurn+Z+%F0%9F%99%BF%E2%80%8D%E2%99%82%EF%B8%8F;Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Animated Typing Text">
-
-</div>
 
 <div align="center">
 
