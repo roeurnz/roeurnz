@@ -1,4 +1,6 @@
-# Hello Dear, I'm Roeurnz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello Dear, I'm Roeurnz <img src="https://media.giphy.com/media/H4uE6w9G1uK1W/giphy.gif" width="40px">
+
+🙏 <img src="https://media.giphy.com/media/l0HU7jj0ivEFyZIA0/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30px">
 
 <div align="start">
   <!-- Clickable Animated Header -->
