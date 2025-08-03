@@ -5,15 +5,7 @@
 <!-- Animated GIF Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Roeurn+Z+%F0%9F%99%BF%E2%80%8D%E2%99%82%EF%B8%8F;Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Animated Typing Text">
 
-<!-- Animated Emoji Wave -->
-<div style="font-size: 40px; margin: 20px 0;">
-  <span style="display: inline-block; animation: wave 2s infinite;">🙏🏻</span>
-</div>
 
-<!-- Floating Profile View Counter -->
-<p align="center" class="float">
-  <img src="https://komarev.com/ghpvc/?username=roeurnz&label=Profile+Views&color=orange&style=flat" alt="Profile Views">
-</p>
 
 </div>
 
