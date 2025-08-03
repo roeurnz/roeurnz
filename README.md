@@ -1,4 +1,4 @@
-# Hello Dear, I'm Roeurnz <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40px" style="animation: float 3s ease-in-out infinite"> 🙏 <img src="https://media.giphy.com/media/l0HU7jj0ivEFyZIA0/giphy.gif" width="30px">
+# Hello Dear, I'm Roeurnz <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40px" style="animation: float 3s ease-in-out infinite"> 
 
 <div align="start">
   <!-- Clickable Animated Header -->
