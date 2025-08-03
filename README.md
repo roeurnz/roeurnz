@@ -1,8 +1,6 @@
 # Hello Dear, I'm Roeurn Z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-
-<div align="center">
-
+<div align="start">
   <!-- Clickable Animated Header -->
   <a href="https://roeurnz.sinctuze.info" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
@@ -17,15 +15,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats">
     </a>
 
-
-  
   <!-- Top Languages -->
   <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   </a>
-      <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
-    </a>
+  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
+  </a>
   </div>
 </div>
 
