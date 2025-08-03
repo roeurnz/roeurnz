@@ -30,7 +30,7 @@
 
 
 
-
+  <!--
 ![Trophies](https://github-profile-trophy.vercel.app/?username=roeurnz&theme=onedark&no-frame=true&column=4)
 
 
@@ -38,7 +38,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=roeurnz&label=Profile+Views&color=orange&style=flat)
 
-
+-->
 
 ## 🛠️ Tech Stack  
 
