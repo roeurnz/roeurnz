@@ -1,9 +1,10 @@
+<div align="center">
+
 # Hello There! I'm Roeurnz 👋 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
-  <span style="font-size: 24px; font-weight: bold; color: #FFA500;">Welcome to My Digital Space</span>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
+<span style="font-size: 24px; font-weight: bold; color: #FFA500;">Welcome to My Digital Space</span>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
 </div>
 
 ---
