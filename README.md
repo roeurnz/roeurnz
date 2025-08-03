@@ -34,7 +34,11 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=roeurnz&theme=onedark&no-frame=true&column=4)
 
 
+
+
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime&layout=compact&theme=radical)
+
+
 
 ## 🛠️ Tech Stack  
 
