@@ -36,7 +36,7 @@
 
 
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=roeurnz&label=Profile+Views&color=orange&style=flat)
 
 
 
