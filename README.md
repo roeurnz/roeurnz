@@ -1,5 +1,8 @@
 # Hello Dear, I'm Roeurnz <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="40px" style="animation: float 3s ease-in-out infinite"> 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite"> You’ve arrived!
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
+  </div>
 <div align="start">
   <!-- Clickable Animated Header -->
   <a href="https://roeurnz.sinctuze.info" target="_blank">
