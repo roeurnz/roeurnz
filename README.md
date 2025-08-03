@@ -1,4 +1,4 @@
-# Hi, I'm Roeurn Z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello Dear, I'm Roeurn Z <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
 
@@ -7,10 +7,8 @@
 
 <!-- Animated Emoji Wave -->
 <div style="font-size: 40px; margin: 20px 0;">
-  <span style="display: inline-block; animation: wave 2s infinite;">👋</span>
+  <span style="display: inline-block; animation: wave 2s infinite;">🙏🏻</span>
 </div>
-
-
 
 <!-- Floating Profile View Counter -->
 <p align="center" class="float">
