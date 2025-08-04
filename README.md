@@ -8,51 +8,31 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
-<span style="font-size: 24px; font-weight: bold; color: #FFA500;">Welcome to My Digital Space</span>
+<span style="font-size: 24px; font-weight: bold; color: var(--color-accent);">Welcome to My Digital Space</span>
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
 </div>
-
-
 
 <div align="start">
   <!-- Clickable Animated Header -->
   <a href="https://roeurnz.sinctuze.info" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=var(--color-accent)&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
   </a>
-
-  <!-- Dynamic Years Badge (GitHub Action will update this) -->
-  ![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
 
   <!-- GitHub Stats Cards -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
     <a href="https://github.com/roeurnz" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats">
     </a>
-  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
-  </a>
-  <!-- Top Languages -->
-  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  </a>
-
+    <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=default&hide_border=true" height="165" alt="Streak Stats">
+    </a>
+    <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+    </a>
   </div>
 </div>
 
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=react-dark&hide_border=true&area=true)
-
-
-
-  <!--
-![Trophies](https://github-profile-trophy.vercel.app/?username=roeurnz&theme=onedark&no-frame=true&column=4)
-
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=roeurnz&label=Profile+Views&color=orange&style=flat)
-
--->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=default&hide_border=true&area=true)
 
 ## 🛠️ Tech Stack  
 
@@ -90,3 +70,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge)](https://roeurnz.sinctuze.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roeurnkaki)
 
+<style>
+  :root {
+    --color-accent: #FFA500;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --color-accent: #FFB74D;
+    }
+  }
+</style>
