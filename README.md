@@ -40,23 +40,23 @@
     <a href="https://github.com/roeurnz" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&border_color=dddddd&border_radius=10">
+        <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&border_color=dddddd&border_radius=10" height="165" alt="GitHub Stats">
       </picture>
     </a>
     <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=default&hide_border=true">
-        <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=default&hide_border=true" height="165" alt="Streak Stats">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=default&border_color=dddddd&border_radius=10">
+        <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=default&border_color=dddddd&border_radius=10" height="165" alt="Streak Stats">
       </picture>
     </a>
     <!-- Top Languages -->
     <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&border_color=dddddd&border_radius=10">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&border_color=dddddd&border_radius=10" alt="Top Languages">
       </picture>
     </a>
   </div>
@@ -65,8 +65,8 @@
 <!-- Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=react-dark&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=github-light&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=github-light&hide_border=true&area=true" alt="Contribution Graph">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=github-light&border_color=dddddd&border_radius=10&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=github-light&border_color=dddddd&border_radius=10&area=true" alt="Contribution Graph">
 </picture>
 
 ## 🛠️ Tech Stack  
