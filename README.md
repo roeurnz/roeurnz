@@ -1,6 +1,14 @@
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Roeurnz+%F0%9F%99%8F" alt="Animated typing text" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-# Hello There! I'm Roeurnz 👋 
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
 <span style="font-size: 24px; font-weight: bold; color: #FFA500;">Welcome to My Digital Space</span>
