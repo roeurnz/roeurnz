@@ -1,58 +1,73 @@
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Roeurnz+%F0%9F%99%8F" alt="Animated typing text" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Roeurnz+%F0%9F%99%8F&color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Roeurnz+%F0%9F%99%8F&color=000000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Roeurnz+%F0%9F%99%8F" alt="Animated typing text">
+  </picture>
 </p>
 
 #
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
-<span style="font-size: 24px; font-weight: bold; color: #FFA500;">Welcome to My Digital Space</span>
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
+  </picture>
+  <span style="font-size: 24px; font-weight: bold;">Welcome to My Digital Space</span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
+  </picture>
 </div>
-
-
 
 <div align="start">
   <!-- Clickable Animated Header -->
   <a href="https://roeurnz.sinctuze.info" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=00000000&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info">
+      <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+roeurnz.sinctuze.info" alt="Portfolio">
+    </picture>
   </a>
 
-  <!-- Dynamic Years Badge (GitHub Action will update this) -->
+  <!-- Dynamic Years Badge -->
   ![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
 
   <!-- GitHub Stats Cards -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
     <a href="https://github.com/roeurnz" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats">
+      </picture>
     </a>
-  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true" height="165" alt="Streak Stats">
-  </a>
-  <!-- Top Languages -->
-  <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  </a>
-
+    <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=default&hide_border=true">
+        <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=default&hide_border=true" height="165" alt="Streak Stats">
+      </picture>
+    </a>
+    <!-- Top Languages -->
+    <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+      </picture>
+    </a>
   </div>
 </div>
 
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=react-dark&hide_border=true&area=true)
-
-
-
-  <!--
-![Trophies](https://github-profile-trophy.vercel.app/?username=roeurnz&theme=onedark&no-frame=true&column=4)
-
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=roeurnz&label=Profile+Views&color=orange&style=flat)
-
--->
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=react-dark&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=github-light&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=github-light&hide_border=true&area=true" alt="Contribution Graph">
+</picture>
 
 ## 🛠️ Tech Stack  
 
