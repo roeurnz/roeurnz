@@ -45,13 +45,13 @@
         <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&border_color=dddddd&border_radius=10" height="165" alt="GitHub Stats">
       </picture>
     </a>
-    <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
+<!--     <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=radical&hide_border=true">
         <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=roeurnz&theme=default&border_color=dddddd&border_radius=10">
         <img src="https://streak-stats.demolab.com/?user=roeurnz&theme=default&border_color=dddddd&border_radius=10" height="165" alt="Streak Stats">
       </picture>
-    </a>
+    </a> -->
     <!-- Top Languages -->
     <a href="https://github.com/roeurnz?tab=repositories" target="_blank">
       <picture>
