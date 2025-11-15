@@ -24,7 +24,7 @@
 
 <div align="start">
   <!-- Clickable Animated Header -->
-  <a href="[https://www.roeurnz.com]" target="_blank">
+<a href="https://roeurnz.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=00000000&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+www.roeurnz.com">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+www.roeurnz.com">
