@@ -6,13 +6,13 @@
   </picture>
 </p>
 
-# <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px">
   <span style="font-size: 24px; font-weight: bold;">Welcome to My Digital Space</span>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px">
 </div>
 
-<div align="start">
+<div align="center">
   <a href="https://www.roeurnz.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+www.roeurnz.com">
@@ -29,51 +29,25 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <!-- GitHub Stats with fallback text -->
+  <a href="https://github.com/roeurnz">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub_Stats-Loading...-blue?style=for-the-badge&logo=github'">
+  </a>
   
-  <!-- Top Languages with different themes -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true" height="165" />
+  <!-- Top Languages with simpler theme -->
+  <a href="https://github.com/roeurnz">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=default&hide_border=true" alt="Top Languages" onerror="this.onerror=null; this.src='https://img.shields.io/badge/Top_Languages-Loading...-green?style=for-the-badge&logo=github'">
+  </a>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🌟 Top Languages with Different Themes
+## 📊 GitHub Streak
 
 <div align="center">
-  
-### Default Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact)](https://github.com/roeurnz)
-
-### Dark Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=dark)](https://github.com/roeurnz)
-
-### Radical Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical)](https://github.com/roeurnz)
-
-### Nightowl Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=nightowl)](https://github.com/roeurnz)
-
-### Tokyonight Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=tokyonight)](https://github.com/roeurnz)
-
-### Dracula Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=dracula)](https://github.com/roeurnz)
-
-### Vue Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=vue)](https://github.com/roeurnz)
-
-### GitHub Dark Theme
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=github_dark)](https://github.com/roeurnz)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=roeurnz&theme=default&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
