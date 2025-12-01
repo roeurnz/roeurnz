@@ -6,13 +6,21 @@
   </picture>
 </p>
 
-#
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px">
   <span style="font-size: 24px; font-weight: bold;">Welcome to My Digital Space</span>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px">
 </div>
+
+---
+
+## 🌐 Live Deployments (Vercel)
+
+- 🔗 **Production:** [roeurnz-git.vercel.app](https://roeurnz-git.vercel.app)  
+- 🔗 **Main Branch Preview:** [roeurnz-git-git-main-roeurnz.vercel.app](https://roeurnz-git-git-main-roeurnz.vercel.app)  
+- 🔗 **Staging / Temporary Preview:** [roeurnz-cz5d5i5sz-roeurnz.vercel.app](https://roeurnz-cz5d5i5sz-roeurnz.vercel.app)  
+
+---
 
 <div align="start">
 <a href="https://www.roeurnz.com" target="_blank">
@@ -31,7 +39,7 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (Working URLs) -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true" 
     height="165"
