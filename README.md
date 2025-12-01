@@ -14,18 +14,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px">
 </div>
 
----
-
-## 🌐 Live Deployments (Vercel)
-
-Here are my active deployed versions of the project:
-
-- 🔗 **Production:** https://roeurnz-git.vercel.app  
-- 🔗 **Main Branch Preview:** https://roeurnz-git-git-main-roeurnz.vercel.app  
-- 🔗 **Staging / Temporary Preview:** https://roeurnz-cz5d5i5sz-roeurnz.vercel.app  
-
----
-
 <div align="start">
 <a href="https://www.roeurnz.com" target="_blank">
     <picture>
@@ -99,7 +87,7 @@ Here are my active deployed versions of the project:
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge)](https://www.roeurnz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roeurnkaki)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roeurnz)
