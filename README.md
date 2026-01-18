@@ -22,13 +22,23 @@
   </a>
 </div>
 
-![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
+![Experience](https://img.shields.io/badge/Experience-2%2B_Years-brightgreen?style=flat&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Work-blue?style=flat)
 ![Specialization](https://img.shields.io/badge/Specialization-Full%20Stack%20%7C%20DevOps%20%7C%20ERP-orange?style=flat)
 
 
 
 ## 🔥 GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=roeurnz&theme=radical&hide_border=true&area=true"
+    alt="Daily Commit Activity"
+  />
+</div>
+
+--- 
+
 
 <div align="center">
   <!-- Single GitHub Stats Card -->
