@@ -48,7 +48,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div> -->
 
----
 
 ## 📈 Activity Metrics
 
