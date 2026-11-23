@@ -40,13 +40,13 @@
 --- 
 
 
-<div align="center">
+<!-- <div align="center">
   <!-- Single GitHub Stats Card -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roeurnz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   
   <!-- Single Top Languages Card -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roeurnz&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
