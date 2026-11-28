@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1600&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Design.+Develop.+Deploy.;Building+things+that+matter.;From+idea+to+production." alt="Building things that matter. From idea to production."/>
 
-Software Developer based in Phnom Penh, Cambodia 🇰🇭
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)](https://www.roeurnz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/roeurnkaki)
 [![Email](https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:contact@roeurnz.com)
