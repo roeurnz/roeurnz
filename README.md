@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="ROEURNZ — Software Developer. Web, Mobile, Cloud, DevOps and ERP."/>
+<img src="./assets/profile-hero-v4.svg" width="100%" alt="ROEURNZ — Software Developer. Design. Develop. Deploy."/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1600&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Design.+Develop.+Deploy.;Building+things+that+matter.;From+idea+to+production." alt="Building things that matter. From idea to production."/>
 
